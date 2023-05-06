@@ -1,2 +1,2 @@
-# YTMusic downloader 11.05.2022
+# YTMusic downloader
  Program that download YTMusic music and/or plylists
